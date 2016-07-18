@@ -90,7 +90,7 @@ the contributions themselves are given to the project under the Apache License
 2.0. Contributions other than those given under Apache License 2.0 will be
 rejected.
 
-## CLA
+## CLA - ya must sign!
 
 When you create a pull request you will be asked to "digitally sign" a CLA
 over at [CLA Assistant](https://cla-assistant.io/reviewninja/review.ninja). In order for us to merge
